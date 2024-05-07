@@ -84,7 +84,7 @@ app.post("/sendmail", (req, res) => {
     secure: false,
     auth: {
       user: 'houssemsakhraoui@gmail.com',
-      pass: 'jril ocmp nxja uwjl'
+      pass: 'webdesignn'
     }
   });
 
